@@ -46,7 +46,7 @@ export function FinalCTA() {
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
               </a>
               <a
-                href="#does"
+                href="#works"
                 className="inline-flex items-center gap-2 rounded-full border border-white/20 px-7 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/5"
               >
                 See what Ava does first
@@ -54,7 +54,7 @@ export function FinalCTA() {
             </div>
 
             <p className="mt-8 text-xs text-white/40">
-              Only 6 of 10 founding spots remaining · $0 setup
+              Only 10 spots remaining for $0 setup
             </p>
           </div>
         </div>

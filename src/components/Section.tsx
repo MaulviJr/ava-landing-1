@@ -35,11 +35,10 @@ type EyebrowProps = { children: ReactNode; dark?: boolean };
 export function Eyebrow({ children, dark = false }: EyebrowProps) {
   return (
     <span
-      className={`inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] ${
+      className={`text-xs font-semibold uppercase tracking-[0.18em] ${
         dark ? 'text-white/60' : 'text-ink/50'
       }`}
     >
-      <span className={`h-px w-6 ${dark ? 'bg-white/30' : 'bg-ink/30'}`} />
       {children}
     </span>
   );
@@ -71,7 +70,7 @@ export function SectionHeader({
         </div>
       )}
       <h2
-        className={`mt-5 text-3xl font-semibold tracking-tight sm:text-4xl md:text-[2.75rem] md:leading-[1.1] text-balance ${
+        className={`mt-5 text-3xl font-semibold tracking-tight sm:text-4xl md:text-[2.75rem] md:leading-[1.1] lg:text-6xl lg:leading-[1.2] text-balance ${
           dark ? 'text-white' : 'text-ink'
         }`}
       >

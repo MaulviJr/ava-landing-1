@@ -18,7 +18,7 @@ export default function App() {
       <main>
         <Hero />
         <WhyAva />
-        <WhatAvaDoes />
+        {/* <WhatAvaDoes /> */}
         <Glimpse />
         <Setup />
         <Comparison />

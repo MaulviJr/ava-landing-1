@@ -62,8 +62,7 @@ export function Setup() {
                 <span className="text-ink">$0</span> for the first 10 customers
               </h3>
               <p className="mt-3 max-w-md text-sm leading-relaxed text-ink/60">
-                Be one of our first 10 customers and get your entire setup done for free — every
-                hour we'd normally spend configuring Ava for your business, on us.
+                Be one of our first 10 customers and get your entire setup done for free — Be quick so that you don't regret later!
               </p>
             </div>
 
@@ -73,7 +72,7 @@ export function Setup() {
                   <p className="text-[11px] font-medium uppercase tracking-wider text-white/55">
                     Spots taken
                   </p>
-                  <p className="mt-1 text-3xl font-semibold tracking-tight">4 / 10</p>
+                  <p className="mt-1 text-3xl font-semibold tracking-tight">0 / 10</p>
                 </div>
                 <div className="h-2 w-24 rounded-full bg-white/15">
                   <div className="h-2 w-2/5 rounded-full bg-paper" />
