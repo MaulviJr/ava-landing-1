@@ -20,7 +20,7 @@ export function DashboardSidebar({
     <div className="flex shrink-0 flex-col border-b border-line bg-mist/30 p-3 sm:w-48 sm:border-b-0 sm:border-r sm:p-4">
       <div className="mb-3 sm:mb-6">
         <p className="text-[9px] font-semibold uppercase tracking-wider text-rose-600/70 sm:text-[10px]">
-          Aesthetics MedSpa
+          Ava Preview
         </p>
         <p className="mt-0.5 text-xs font-semibold text-ink sm:text-sm">Staff Dashboard</p>
       </div>

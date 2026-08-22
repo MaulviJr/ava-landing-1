@@ -32,7 +32,7 @@ export function OwnerDashboardPreview() {
         <span className="h-2.5 w-2.5 rounded-full bg-ink/15" />
         <span className="h-2.5 w-2.5 rounded-full bg-ink/15" />
         <span className="ml-2 truncate rounded-md bg-paper px-3 py-1 text-[10px] text-ink/40 shadow-soft sm:text-[11px]">
-          app.tryava.ai/dashboard
+          ava/dashboard
         </span>
       </div>
 

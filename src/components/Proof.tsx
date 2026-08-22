@@ -15,10 +15,10 @@ export function Proof() {
             <Quote className="h-5 w-5 text-ink/50" />
           </span>
           <p className="mx-auto mt-6 max-w-xl text-lg font-medium leading-relaxed text-ink sm:text-xl">
-            Ava answered <span className="text-ink">38 after-hours calls</span> in her first week
-            live — calls that would have gone straight to voicemail.
+            Ava answered <span className="text-ink">100+ Calls</span> in her first week
+            of testing by our team. We were able to see how she handled a variety of questions and requests, and the results were impressive.
           </p>
-          <p className="mt-4 text-sm text-ink/50">Pilot clinic · week one dashboard</p>
+          {/* <p className="mt-4 text-sm text-ink/50">Pilot clinic · week one dashboard</p> */}
         </div>
 
         <p className="mt-8 text-center text-sm text-ink/45">
